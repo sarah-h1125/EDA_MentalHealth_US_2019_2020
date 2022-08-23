@@ -245,15 +245,6 @@ UPDATE HealthcareData.dbo.Mental_Health_Summary_2
 SET count_HPSA = 0, avg_HPSA_score = 0
 WHERE (count_HPSA IS NULL) and (avg_HPSA_score IS NULL);
 
-
 -- Downloaded as a CSV and uploaded into Tableau Public
 SELECT * 
 FROM HealthcareData.dbo.Mental_Health_Summary_2;
-
-
-
-
-
-
-
-
