@@ -1,9 +1,9 @@
 # SQL Projects
 Project #1: Exploratory Data Analysis project using MS SQL Server &amp; Tableau Public
 
-In this project, I combined data from various U.S. government departments including the CDC, HRSA, and NHI to explore trends in mental health among U.S. adults between 2019 and 2020. The data was cleaned, transformed and combined in MS SQL Server, and imported in Tableau Public for vizualization. 
-<br>  <a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/SQLQuery_MentalHealthData.sql"><b>SQL Server Code</b></a>
-<br>  <a href="https://public.tableau.com/app/profile/sarah.heacox/viz/MentalHealthinU_S_2019-2020/Dashboard1" target="_blank"><b>Visualization on Tableau Public</b></a>
+In this project, I combined data from various U.S. government departments including the CDC, HRSA, and NHI to explore trends in mental health among U.S. adults between 2019 and 2020. The data was cleaned, transformed and combined in MS SQL Server, and imported in Tableau Public for visualization. 
+<br><br> <a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/SQLQuery_MentalHealthData.sql"><b>SQL Server Code</b></a>
+<br><br> <a href="https://public.tableau.com/app/profile/sarah.heacox/viz/MentalHealthinU_S_2019-2020/Dashboard1" target="_blank"><b>Visualization on Tableau Public</b></a>
 
 Data is sourced from...
   U.S. Chronic Disease Indicators: Mental Health https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Mental-Health/ixrt-gnsg
