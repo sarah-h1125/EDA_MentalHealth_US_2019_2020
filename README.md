@@ -1,5 +1,6 @@
 # SQL Projects
 Project #1: Exploratory Data Analysis project using MS SQL Server &amp; Tableau Public
+<a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/SQLQuery_MentalHealthData.sql"><b>SQL Server Code</b> </a>
 
 <a href="https://public.tableau.com/app/profile/sarah.heacox/viz/MentalHealthinU_S_2019-2020/Dashboard1" target="_blank"><b>Visualization on Tableau Public</b></a>
 
