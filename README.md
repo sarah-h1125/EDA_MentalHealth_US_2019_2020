@@ -12,7 +12,7 @@ Data is sourced from...
   <br>Suicide Data: CDC https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
   <br>HPSA (Health Provider Shortage Area) Data: https://data.hrsa.gov/data/download
   
-<br><br>  
+<br>
 <b> Project #2: Exploratory Data Analysis project using MS SQL Server (In progress...) 
 <br> Medicare Part D Spending</b> 
 
