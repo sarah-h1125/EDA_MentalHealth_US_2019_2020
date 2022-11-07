@@ -10,3 +10,9 @@ Data is sourced from...
   <br>Poverty Data: US Census Bureau https://www.census.gov/library/publications/2021/demo/p60-273.html
   <br>Suicide Data: CDC https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
   <br>HPSA (Health Provider Shortage Area) Data: https://data.hrsa.gov/data/download
+  
+  
+Project #2: Exploratory Data Analysis project using MS SQL Server (In progress...) 
+
+EDA of Medicare Part D spending by drug data sourced from CMS.gov: 
+https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-part-d-spending-by-drug
