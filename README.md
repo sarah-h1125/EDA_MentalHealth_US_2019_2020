@@ -12,12 +12,12 @@ Data is sourced from...
   <br>Suicide Data: CDC https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
   <br>HPSA (Health Provider Shortage Area) Data: https://data.hrsa.gov/data/download
   
-  
+<br><br>  
 <b> Project #2: Exploratory Data Analysis project using MS SQL Server (In progress...) 
 <br> Medicare Part D Spending</b> 
 
 EDA of Medicare Part D spending by drug data sourced from CMS.gov: 
 https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-part-d-spending-by-drug
 
-<br><br> -> <a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/Medicare_PartD_Drug_Spending.sql"><b>SQL Server Code</b></a>
+<br> -> <a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/Medicare_PartD_Drug_Spending.sql"><b>SQL Server Code</b></a>
 
