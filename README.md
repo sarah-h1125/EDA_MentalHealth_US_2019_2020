@@ -1,6 +1,6 @@
 # SQL Projects
 <b> Project #1: Exploratory Data Analysis project using MS SQL Server &amp; Tableau Public 
-Mental Health in U.S. 2019-2020</b> 
+<br> Mental Health in U.S. 2019-2020</b> 
 
 In this project, I combined data from various U.S. government departments including the CDC, HRSA, and NHI to explore trends in mental health among U.S. adults between 2019 and 2020. The data was cleaned, transformed and combined in MS SQL Server, and imported in Tableau Public for visualization. 
 <br><br> -> <a href="https://github.com/sarah-h1125/SQL_Projects/blob/main/SQLQuery_MentalHealthData.sql"><b>SQL Server Code</b></a>
@@ -14,7 +14,7 @@ Data is sourced from...
   
   
 <b> Project #2: Exploratory Data Analysis project using MS SQL Server (In progress...) 
-Medicare Part D Spending</b> 
+<br> Medicare Part D Spending</b> 
 
 EDA of Medicare Part D spending by drug data sourced from CMS.gov: 
 https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-part-d-spending-by-drug
